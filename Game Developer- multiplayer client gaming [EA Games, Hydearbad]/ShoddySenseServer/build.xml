@@ -9,7 +9,7 @@
 <!-- in the project's Project Properties dialog box.-->
 <project name="ShoddySenseServer" default="default" basedir=".">
     <description>Builds, tests, and runs the project ShoddySenseServer.</description>
-    <import file="nbproject/build-impl.xml"/>
+    <import file="nbproject/build-impl.xml"/> 
     <!--
 
     There exist several targets which are by default empty and which can be 
@@ -35,7 +35,7 @@
     Example of inserting an obfuscator after compilation could look like this:
 
         <target name="-post-compile">
-            <obfuscate>
+            <obfuscate> 
                 <fileset dir="${build.classes.dir}"/>
             </obfuscate>
         </target>
