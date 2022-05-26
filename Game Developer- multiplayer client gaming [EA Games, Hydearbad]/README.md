@@ -29,7 +29,7 @@ the following two actions:
    specific image that was wrongly guessed is not disclosed to the other
    players (i.e. the other players are only told that the guess was wrong, not
    specifically what the guess was).
-
+ 
 The goal is to be the last player remaining, by correctly guessing other
 players' images, or by being the beneficiary of incorrect guesses by other
 players.
